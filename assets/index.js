@@ -1,4 +1,7 @@
 var i = 90;
-var j = 90;
-//testing comments
 
+var x = 90;
+
+var z = 90;
+
+var p = 90;
