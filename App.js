@@ -107,6 +107,7 @@ class App extends React.Component {
       <View style={content}>
           <Text>Attach Some Files</Text>
           {/* Images List/           */}
+          {/* Images List/           */}
           <FlatList
           style={styles.list}
           numColumns={3}
